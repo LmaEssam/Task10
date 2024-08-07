@@ -1,0 +1,9 @@
+#jobswrapper{
+   margin-top: 50px;
+   margin-bottom: 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   row-gap: 25px;
+}
